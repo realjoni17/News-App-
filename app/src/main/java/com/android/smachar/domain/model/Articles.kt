@@ -1,6 +1,6 @@
 package com.android.smachar.domain.model
 
-data class Article(
+data class Articles(
     val content : String,
     val description : String,
     val title : String,
